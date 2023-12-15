@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @cmfyoung
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Chris!
+- 👀 I’m currently studying at UPenn's coding bootcamp/   
+- 🌱 I’m learning Full-stack Development
+- 💞️ I’m looking to collaborate on projects that will enhance my knowledge.
+- 📫 You can reach me at my email cmfyoung7@gmail.com
 
-<!---
-cmfyoung/cmfyoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

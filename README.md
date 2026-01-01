@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris!
-- 👀 I’m currently studying at the University of Pennsylvania's coding bootcamp 
-- 🌱 I’m learning Full-stack Development
+- 👀 I’m currently working in a technical support role in the health care industry 
+- 🌱 I’m pursuing a role in Cyber Security and Full-stack Development
 - 💞️ I’m looking to collaborate on projects that will enhance my knowledge.
 - 📫 You can reach me at my email cmfyoung7@gmail.com
 
